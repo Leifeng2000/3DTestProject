@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 102db6f850173954d99b778f5a776fc6
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: arm_links_gebeugt
+  - first:
+      1: 100002
+    second: arm_links_gerade
+  - first:
+      1: 100004
+    second: arm_rechts_gebeugt
+  - first:
+      1: 100006
+    second: arm_rechts_gerade
+  - first:
+      1: 100008
+    second: auge_links
+  - first:
+      1: 100010
+    second: auge_rechts
+  - first:
+      1: 100012
+    second: bein_links
+  - first:
+      1: 100014
+    second: bein_rechts
+  - first:
+      1: 100016
+    second: Camera
+  - first:
+      1: 100018
+    second: kopf
+  - first:
+      1: 100020
+    second: //RootNode
+  - first:
+      1: 100022
+    second: torso
+  - first:
+      4: 400000
+    second: arm_links_gebeugt
+  - first:
+      4: 400002
+    second: arm_links_gerade
+  - first:
+      4: 400004
+    second: arm_rechts_gebeugt
+  - first:
+      4: 400006
+    second: arm_rechts_gerade
+  - first:
+      4: 400008
+    second: auge_links
+  - first:
+      4: 400010
+    second: auge_rechts
+  - first:
+      4: 400012
+    second: bein_links
+  - first:
+      4: 400014
+    second: bein_rechts
+  - first:
+      4: 400016
+    second: Camera
+  - first:
+      4: 400018
+    second: kopf
+  - first:
+      4: 400020
+    second: //RootNode
+  - first:
+      4: 400022
+    second: torso
+  - first:
+      23: 2300000
+    second: arm_links_gebeugt
+  - first:
+      23: 2300002
+    second: arm_links_gerade
+  - first:
+      23: 2300004
+    second: arm_rechts_gebeugt
+  - first:
+      23: 2300006
+    second: arm_rechts_gerade
+  - first:
+      23: 2300008
+    second: auge_links
+  - first:
+      23: 2300010
+    second: auge_rechts
+  - first:
+      23: 2300012
+    second: bein_links
+  - first:
+      23: 2300014
+    second: bein_rechts
+  - first:
+      23: 2300016
+    second: kopf
+  - first:
+      23: 2300018
+    second: torso
+  - first:
+      33: 3300000
+    second: arm_links_gebeugt
+  - first:
+      33: 3300002
+    second: arm_links_gerade
+  - first:
+      33: 3300004
+    second: arm_rechts_gebeugt
+  - first:
+      33: 3300006
+    second: arm_rechts_gerade
+  - first:
+      33: 3300008
+    second: auge_links
+  - first:
+      33: 3300010
+    second: auge_rechts
+  - first:
+      33: 3300012
+    second: bein_links
+  - first:
+      33: 3300014
+    second: bein_rechts
+  - first:
+      33: 3300016
+    second: kopf
+  - first:
+      33: 3300018
+    second: torso
+  - first:
+      43: 4300000
+    second: arm_links_gebeugt
+  - first:
+      43: 4300002
+    second: auge_rechts
+  - first:
+      43: 4300004
+    second: torso
+  - first:
+      43: 4300006
+    second: kopf
+  - first:
+      43: 4300008
+    second: bein_rechts
+  - first:
+      43: 4300010
+    second: bein_links
+  - first:
+      43: 4300012
+    second: auge_links
+  - first:
+      43: 4300014
+    second: arm_rechts_gerade
+  - first:
+      43: 4300016
+    second: arm_links_gerade
+  - first:
+      43: 4300018
+    second: arm_rechts_gebeugt
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 85
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: schaufensterpuppen(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_links_gebeugt
+      parentName: schaufensterpuppen(Clone)
+      position: {x: 0.096639015, y: 0.4915024, z: -0.119973436}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: auge_rechts
+      parentName: schaufensterpuppen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: torso
+      parentName: schaufensterpuppen(Clone)
+      position: {x: -0.003539648, y: 0.2417816, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kopf
+      parentName: schaufensterpuppen(Clone)
+      position: {x: 0.00016647704, y: 0.59068626, z: -0.1146754}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bein_rechts
+      parentName: schaufensterpuppen(Clone)
+      position: {x: 0.1102212, y: -0.39490405, z: -0.10856353}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bein_links
+      parentName: schaufensterpuppen(Clone)
+      position: {x: -0.11286239, y: -0.4069626, z: -0.11459281}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: auge_links
+      parentName: schaufensterpuppen(Clone)
+      position: {x: -0.032346696, y: 0.7160119, z: -0.046936214}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_rechts_gerade
+      parentName: schaufensterpuppen(Clone)
+      position: {x: -0.095997676, y: 0.49234095, z: -0.11955036}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_links_gerade
+      parentName: schaufensterpuppen(Clone)
+      position: {x: 0.09142891, y: 0.49234095, z: -0.12016689}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_rechts_gebeugt
+      parentName: schaufensterpuppen(Clone)
+      position: {x: -0.09737898, y: 0.4929293, z: -0.121398315}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Camera
+      parentName: schaufensterpuppen(Clone)
+      position: {x: -0, y: 0.75, z: 4}
+      rotation: {x: -0.030843565, y: -0.7064338, z: -0.030843565, w: 0.7064338}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
