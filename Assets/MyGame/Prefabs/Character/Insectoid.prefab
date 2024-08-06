@@ -1222,13 +1222,14 @@ GameObject:
   - component: {fileID: 5071513541713206666}
   - component: {fileID: 6940014077655479301}
   - component: {fileID: 7017215005559876661}
+  - component: {fileID: 3538664439408923336}
   m_Layer: 0
   m_Name: Insectoid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &5617682396505860407
 Transform:
   m_ObjectHideFlags: 0
@@ -1420,13 +1421,34 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   detectionRange: 20
-  fieldOfView: 360
+  fieldOfView: 260
   patrol: {fileID: 5071513541713206666}
   aiDestination: {fileID: 6940014077655479301}
   animator: {fileID: 3026369273946934674}
   deathScreenUI: {fileID: 0}
   mouseMovement: {fileID: 0}
   playerController: {fileID: 0}
+--- !u!65 &3538664439408923336
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8240567041824115663}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.3466103, y: 1.8770632, z: 2.0131059}
+  m_Center: {x: -0.16218355, y: 1.0630211, z: 0.5065524}
 --- !u!1 &8647388230915497950
 GameObject:
   m_ObjectHideFlags: 0
