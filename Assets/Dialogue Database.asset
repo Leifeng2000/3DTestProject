@@ -1792,7 +1792,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 278
-        y: 322
+        y: 321
         width: 160
         height: 30
     - id: 12
@@ -1822,7 +1822,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: SetActive(Doll,true)
+        value: 'SetActive(Doll,true);
+
+          SetActive(Monster,true)'
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 2
